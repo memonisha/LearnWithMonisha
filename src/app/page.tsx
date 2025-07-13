@@ -10,7 +10,7 @@ export default function HomePage() {
       <FloatingEmojis />
      
       <header className={styles.navbar}>
-        <div className={styles.logo}>Learn With Monisha...🍃</div>
+        <div className={styles.logo}>Code With Monisha...🍃</div>
         <nav className={styles.navLinks}>
           
           <a href="#projects">Projects</a>
